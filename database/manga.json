@@ -1,0 +1,44 @@
+// Version: mangaJsonV1.0 Rev 0
+
+{
+  "manga_id": "mvh-dragonslayer-001",
+  "title": "A Dragonslayer's Peerless Regression",
+  "alternative_title": "용살자의 절명 귀환",
+  "status": "Ongoing",
+  "author": "Yusong",
+  "artist": "Bae Hoo-jin",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Fantasy",
+    "Shounen",
+    "Regression"
+  ],
+  "type": "Manhwa",
+  "release_year": 2024,
+  "rating": 4.8,
+  "synopsis": "Dunia hancur oleh naga. Sebagai manusia terakhir yang bertahan, ia berhasil membunuh Raja Naga dengan mengorbankan nyawanya sendiri. Namun, alih-alih mati, ia justru terbangun kembali di masa lalu, tepat sebelum invasi naga dimulai. Dengan ingatan dan pengalaman tempurnya, ia bersumpah untuk mengubah takdir umat manusia dan membunuh semua naga sebelum mereka menghancurkan dunia.",
+  "cover_url": "https://raw.githubusercontent.com/MonstaComic/assets/main/covers/dragonslayer_cover.jpg",
+  "chapters": [
+    {
+      "chapter_number": 1,
+      "chapter_title": "Akhir dari Sang Naga",
+      "images": [
+        "https://raw.githubusercontent.com/MonstaComic/assets/main/mvh-dragonslayer-001/ch-01/001.jpg",
+        "https://raw.githubusercontent.com/MonstaComic/assets/main/mvh-dragonslayer-001/ch-01/002.jpg",
+        "https://raw.githubusercontent.com/MonstaComic/assets/main/mvh-dragonslayer-001/ch-01/003.jpg",
+        "https://raw.githubusercontent.com/MonstaComic/assets/main/mvh-dragonslayer-001/ch-01/004.jpg"
+      ]
+    },
+    {
+      "chapter_number": 2,
+      "chapter_title": "Kembali ke Masa Lalu",
+      "images": [
+        "https://raw.githubusercontent.com/MonstaComic/assets/main/mvh-dragonslayer-001/ch-02/001.jpg",
+        "https://raw.githubusercontent.com/MonstaComic/assets/main/mvh-dragonslayer-001/ch-02/002.jpg",
+        "https://raw.githubusercontent.com/MonstaComic/assets/main/mvh-dragonslayer-001/ch-02/003.jpg",
+        "https://raw.githubusercontent.com/MonstaComic/assets/main/mvh-dragonslayer-001/ch-02/004.jpg"
+      ]
+    }
+  ]
+}
